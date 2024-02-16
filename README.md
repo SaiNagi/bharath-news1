@@ -12,7 +12,7 @@ To get started, follow these steps:
 
 1. Clone the repository to your local machine:
    
-   git clone github.com/SaiNagi/bharath-news1
+   git clone https://github.com/SaiNagi/bharath-news1
 
 **Navigate to the project directory:**
   cd bharath-news1-main
